@@ -1,0 +1,10 @@
+Technical and Problem-Solving Skills
+Foundational Programming Knowledge:
+I built a strong understanding of core programming concepts using languages like Python, equipping me with the skills to write, debug, and optimize code efficiently.
+
+Web and Software Development:
+I familiarized myself with the basics of web technologies and application development, which helped me understand how digital solutions are created, structured, and maintained.
+
+Algorithmic Thinking:
+Through various exercises and projects, I honed my problem-solving abilities, learning to break down complex problems into simpler, manageable parts and develop logical, step-by-step solutions.
+
